@@ -105,5 +105,5 @@ Se utiliza JWT (Json Web Tokens) para la autenticación de los usuarios. Los tok
   REFRESH_SECRET_KEY=tu_clave_secreta_para_refresh
   SERVER_PORT=3001
   DATABASE_URL=tu_url_de_base_de_datos
-4. pnpm start
+5. pnpm start
 Ahora puedes hacer peticiones a la API en http://localhost:3001/api.
